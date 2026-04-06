@@ -1,0 +1,29 @@
+#theme-search-box {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 7px 12px;
+  margin-bottom: 6px;
+  border-radius: 8px;
+  border: 1px solid var(--SmartThemeBorderColor, #ccc);
+  background: var(--SmartThemeBlurTintColor, #fff);
+  color: var(--SmartThemeBodyColor, #333);
+  font-size: 14px;
+  outline: none;
+}
+
+#theme-search-box:focus {
+  border-color: var(--SmartThemeEmColor, #5DCAA5);
+  box-shadow: 0 0 0 2px rgba(93, 202, 165, 0.2);
+}
+
+.theme-search-highlight {
+  background: rgba(93, 202, 165, 0.35);
+  border-radius: 2px;
+}
+
+#theme-search-count {
+  font-size: 12px;
+  color: var(--SmartThemeQuoteColor, #888);
+  margin-bottom: 4px;
+  padding: 0 2px;
+}
