@@ -9,7 +9,7 @@ so you can quickly find themes by name instead of scrolling through a long list.
 
 **Method 1 – ST Built-in (recommended)**
 1. In SillyTavern, go to Extensions → Install extension
-2. Paste this URL: https://github.com/你的用户名/st-theme-search
+2. Paste this URL: https://github.com/Yichuiwangyue/st-theme-search
 3. Click Install
 
 **Method 2 – Manual**
